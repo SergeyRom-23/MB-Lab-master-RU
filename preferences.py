@@ -1,6 +1,7 @@
 # MB-Lab
 #
 # Сайт ветки MB-Lab: https://github.com/animate1978/MB-Lab
+# Сайт ветки перевода на русский язык MB-Lab: https://github.com/SergeyRom-23/MB-Lab-master-RU
 #
 # ##### НАЧАЛО ЛИЦЕНЗИОННОГО БЛОКА GPL #####
 #
