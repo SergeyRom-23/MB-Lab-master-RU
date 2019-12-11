@@ -2,16 +2,16 @@
   "manuellab_vers": [1, 4, 0],
   "materialproperties": {},
   "structural": {
-    "Body_Size": 1.0,
-    "Feet_Size": 0.82,
-    "Neck_Length": 0.62,
-    "Hands_Size": 0.83,
-    "Legs_LowerlegLength": 0.74,
-    "Head_Size": 0.32,
-    "Torso_Length": 0.74,
-    "Arms_UpperarmLength": 0.86,
+    "Arms_UpperarmSize": 0.26,
+    "Torso_Vshape": 0.26,
+    "Legs_LowerlegLength": 0.56,
+    "Legs_UpperlegsTone": 0.62,
+    "Arms_ForearmSize": 0.38,
+    "Legs_UpperlegsMass": 0.17,
+    "Neck_Size": 0.2,
+    "Arms_ForearmTone": 0.62,
     "Legs_UpperlegLength": 0.59,
-    "Arms_ForearmLength": 0.65
+    "Pelvis_SizeX": 0.35
   },
   "metaproperties": {
     "last_character_tone": 0.0,
