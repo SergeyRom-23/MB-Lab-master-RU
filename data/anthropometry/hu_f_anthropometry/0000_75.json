@@ -1,7 +1,7 @@
 {
-  "proportion_index": [0.557, 0.473, 0.3688, 0.1856, 0.32],
+  "proportion_index": [0.557, 0.5679, 0.3688, 0.1856, 0.32],
   "structural": {
-    "Torso_BreastMass": 0.0
+    "Torso_BreastMass": 0.75
   },
   "manuellab_vers": [1, 6, 0],
   "metaproperties": {
