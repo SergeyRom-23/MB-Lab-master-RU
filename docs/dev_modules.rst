@@ -43,7 +43,7 @@ morphengine.py
 ==============
 proxyengine.py
 ==============
-Обрабатывает функции настройки проксиHandles the Proxy Fitting functions
+Обрабатывает функции  и ручные настройки прокси the Proxy Fitting functions
 
 =================
 skeletonengine.py
