@@ -1,5 +1,5 @@
 =========== 
-Expressions / Выраженность
+Expressions / Выражения лица 
 ===========
 
 .. image:: images/expressions_01.png
